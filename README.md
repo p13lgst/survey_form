@@ -1,3 +1,6 @@
 # Survey Form
+A Programming Research Survey Form.
 
-An example survey form, FreeCodeCamp project.
+A responsive web design project for FreeCodeCamp.
+
+View it here: https://p13lgst.github.io/survey_form
